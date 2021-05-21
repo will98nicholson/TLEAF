@@ -1,7 +1,7 @@
 * {
     background-color: aqua;
 }
-section {
+/* section {
     display: flex;
     flex-direction: row;
 }
@@ -14,4 +14,4 @@ img {
     display: block;
     height: 200px;
     width:  200px;
-}
+} */
