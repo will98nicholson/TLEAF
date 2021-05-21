@@ -1,0 +1,17 @@
+* {
+    background-color: aqua;
+}
+section {
+    display: flex;
+    flex-direction: row;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.contact-card {
+    display: block;
+    height: 200px;
+    width:  200px;
+}
